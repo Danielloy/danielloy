@@ -8,7 +8,7 @@ body{
   overflow: hidden;
   background-color: gray;
   font-family: Arial;
-  width: 660px;
+  width: 41rem;
   float: right;
   display: flex;
   justify-content: center;
@@ -58,10 +58,10 @@ left: 100px;
 }
 /* ................................circle............................................ */
 .img2{
-  width: 150px;
+  width: 9.5rem;
   position: absolute;
-  left: 720px;
-  top: 110px;
+  left: 45rem;
+  top: 6.5rem;
   animation: rotation 3s infinite;
 }
 @keyframes rotation {
@@ -76,9 +76,9 @@ left: 100px;
 .logo{
   display: inline-block;
   position:absolute;
-  width: 100px;
-  height: 100px;
-  margin:125px 470px;
+  width: 6rem;
+  height: 6.5rem;
+  margin:7.4rem 29.5rem;
   border-radius: 50%;
 } 
 /* ............................welcome text....................................... */
