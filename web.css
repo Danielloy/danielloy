@@ -177,7 +177,8 @@ body{
   }
   .navbar a{
   color: #fff;
-  font-size: 0.5rem;
+  font-size: 0.8rem;
+  padding:4vw 3vw;
   }
   .image{
     display: none;
@@ -206,10 +207,11 @@ body{
     display: none;
   }
   .wel{
-    font-size: 0.5rem;
-    top: 15vh;
+    font-size: 0.6rem;
+    top: 20vh;
     left: 11vh;
     justify-content: center;
+    font-family:Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
   }
 #server-time{
   display: none;
