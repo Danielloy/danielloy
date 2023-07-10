@@ -107,3 +107,26 @@ span{
 .end2{
     margin-bottom: 5px;
 }
+
+/* ................................................................................... */
+
+@media only screen and (max-width: 600px) {
+    .navbar{
+      position: absolute;
+      width: 95vw;
+      height:6vh;
+      top: 3vw;
+      margin-left: 0px;
+    }
+    .navbar a{
+      padding: 5vw 3vw;
+      font-size: 0.7rem;
+    }
+    form{
+        margin-top: 40vw;
+    }
+    .end{
+        margin-top:37vw;
+    }
+
+}
